@@ -1,0 +1,101 @@
+ID,Gender,Status,Children,Age,Customer_Status,Car_Owner,Customer_Service,Satisfaction,Business_Area,Action,Predicted Sentiment,Extracted Issues
+1000,Male,M,2,48.88,Active,Yes,"Long waiting time for pickup, very inconvenient.",1,Product: Pricing and Billing,Visit Nearest Center,Negative,"Long waiting time, inconvenient pickup"
+1001,Female,F,2,65.41,Active,Yes,"All went quite smoothly... it was Enterprise, so they even picked me up to get the car.",1,Service: Accessibility,On-demand pickup location,Positive,None
+1002,Female,F,0,63.0,Inactive,Yes,"Very friendly service from the staff, quick and easy process.",1,Service: Accessibility,,Positive,None
+1003,Female,F,0,19.43,Inactive,Yes,Excellent response dealing with child seat.,1,Service: Attitude,Standard Pickup,Positive,None
+1004,Female,F,1,21.16,Inactive,Yes,The agent subsequently offered me a car type on an upgrade coupon and then told me it was no longer available.,0,Product: Pricing and Billing,Free Upgrade,Negative,"Misinformation, Car availability"
+1005,Female,M,2,38.81,Inactive,No,"Long waiting time for pickup, very inconvenient.",0,Service: Accessibility,On-demand pickup location,Negative,"Long waiting time, inconvenient pickup"
+1006,Male,M,1,26.45,Active,Yes,"Last time I rented a car was at Manchester, NH airport and they do not have office there anymore.",1,Service: Orders/Contracts,On-demand pickup location,Neutral,None
+1007,Female,M,3,32.81,Active,No,"Very friendly service from the staff, quick and easy process.",0,Service: Accessibility,Visit Nearest Center,Positive,None
+1008,Female,F,0,60.11,Inactive,No,"Long waiting time for pickup, very inconvenient.",1,Service: Orders/Contracts,Contact Support,Negative,"Long waiting time, inconvenient service"
+1009,Female,F,3,49.83,Inactive,No,"All went quite smoothly... it was Enterprise, so they even picked me up to get the car.",0,Product: Pricing and Billing,,Positive,None
+1010,Female,F,2,32.84,Inactive,No,"Last time I rented a car was at Manchester, NH airport and they do not have office there anymore.",0,Service: Attitude,Contact Support,Neutral,None
+1011,Female,M,2,52.4,Active,Yes,"Very friendly service from the staff, quick and easy process.",0,Service: Accessibility,Visit Nearest Center,Positive,None
+1012,Male,F,2,66.36,Active,Yes,Excellent response dealing with child seat.,0,Service: Knowledge,Standard Pickup,Positive,None
+1013,Male,F,1,37.27,Active,No,Please lower the prices.,1,Service: Accessibility,Visit Nearest Center,Neutral,Pricing
+1014,Male,M,3,29.3,Inactive,Yes,"Long waiting time for pickup, very inconvenient.",1,Product: Functioning,Contact Support,Negative,"Long waiting time, inconvenient service"
+1015,Male,M,0,40.1,Inactive,Yes,"Long waiting time for pickup, very inconvenient.",0,Service: Accessibility,Contact Support,Negative,"Long waiting time, inconvenient service"
+1016,Male,M,3,50.94,Active,No,"All went quite smoothly... it was Enterprise, so they even picked me up to get the car.",0,Service: Accessibility,Free Upgrade,Positive,None
+1017,Male,F,0,27.27,Active,Yes,"Long waiting time for pickup, very inconvenient.",0,Service: Knowledge,Free Upgrade,Negative,"Long waiting time, inconvenient service"
+1018,Female,M,3,49.76,Active,No,"I had a few recent rentals that have taken a very very long time, with no offer of apology.",1,Product: Functioning,Free Upgrade,Negative,"Long wait times, No apology offered"
+1019,Male,M,0,37.54,Inactive,No,Excellent response dealing with child seat.,0,Product: Pricing and Billing,On-demand pickup location,Positive,None
+1020,Female,M,1,51.57,Active,Yes,"All went quite smoothly... it was Enterprise, so they even picked me up to get the car.",1,Service: Attitude,Standard Pickup,Positive,None
+1021,Female,M,2,42.02,Active,Yes,"Slow, long lineup",1,Service: Accessibility,On-demand pickup location,Negative,Long wait times
+1022,Female,M,2,34.34,Inactive,Yes,"Slow, long lineup",0,Product: Pricing and Billing,,Negative,Long wait times
+1023,Male,M,0,48.37,Inactive,Yes,"Vehicle was not clean upon delivery, disappointed.",1,Product: Functioning,On-demand pickup location,Negative,"Vehicle cleanliness, delivery"
+1024,Female,M,2,36.79,Inactive,No,"Slow, long lineup",1,Service: Knowledge,On-demand pickup location,Negative,Long wait times
+1025,Male,F,0,23.81,Active,No,Excellent response dealing with child seat.,0,Service: Accessibility,Standard Pickup,Positive,None
+1026,Male,F,0,60.62,Active,Yes,The agent subsequently offered me a car type on an upgrade coupon and then told me it was no longer available.,0,Service: Orders/Contracts,Visit Nearest Center,Negative,"Misinformation, Unavailability"
+1027,Female,M,0,55.86,Active,No,"I had a few recent rentals that have taken a very very long time, with no offer of apology.",1,Product: Functioning,,Negative,"Long wait times, No apology"
+1028,Female,M,3,23.64,Inactive,No,The agent subsequently offered me a car type on an upgrade coupon and then told me it was no longer available.,1,Service: Knowledge,Visit Nearest Center,Negative,"Misinformation, Unavailable upgrade"
+1029,Male,M,0,62.98,Inactive,Yes,"All went quite smoothly... it was Enterprise, so they even picked me up to get the car.",1,Service: Orders/Contracts,Standard Pickup,Positive,None
+1030,Female,M,2,51.47,Active,Yes,"Very friendly service from the staff, quick and easy process.",0,Product: Functioning,Free Upgrade,Positive,None
+1031,Female,M,3,24.59,Inactive,Yes,"All went quite smoothly... it was Enterprise, so they even picked me up to get the car.",0,Service: Attitude,Visit Nearest Center,Positive,None
+1032,Female,M,3,28.42,Inactive,Yes,"Slow, long lineup",0,Product: Functioning,Standard Pickup,Negative,Long wait times
+1033,Male,M,2,23.03,Inactive,Yes,Excellent response dealing with child seat.,1,Service: Attitude,Free Upgrade,Positive,None
+1034,Female,M,2,57.3,Inactive,No,"I had a few recent rentals that have taken a very very long time, with no offer of apology.",0,Service: Orders/Contracts,,Negative,"Long wait times, No apology"
+1035,Female,M,3,48.78,Inactive,No,"All went quite smoothly... it was Enterprise, so they even picked me up to get the car.",1,Service: Accessibility,Free Upgrade,Positive,None
+1036,Female,F,3,40.51,Inactive,No,"Slow, long lineup",1,Product: Pricing and Billing,Free Upgrade,Negative,Long wait times
+1037,Male,M,3,57.13,Active,Yes,"Vehicle was not clean upon delivery, disappointed.",0,Service: Knowledge,Visit Nearest Center,Negative,"Vehicle cleanliness, delivery"
+1038,Female,M,1,57.43,Inactive,No,"Last time I rented a car was at Manchester, NH airport and they do not have office there anymore.",1,Service: Knowledge,Visit Nearest Center,Neutral,None
+1039,Male,F,1,33.55,Inactive,Yes,"Long waiting time for pickup, very inconvenient.",1,Product: Pricing and Billing,,Negative,"Long waiting time, inconvenient service"
+1040,Male,F,2,33.08,Active,No,The agent subsequently offered me a car type on an upgrade coupon and then told me it was no longer available.,0,Service: Accessibility,On-demand pickup location,Negative,"Car availability, Misinformation"
+1041,Male,M,0,32.23,Inactive,Yes,"I had a few recent rentals that have taken a very very long time, with no offer of apology.",1,Service: Knowledge,Visit Nearest Center,Negative,"Long wait times, No apology"
+1042,Female,M,0,53.25,Active,Yes,"Vehicle was not clean upon delivery, disappointed.",0,Service: Orders/Contracts,Contact Support,Negative,"Vehicle cleanliness, delivery"
+1043,Male,F,2,41.3,Active,Yes,"Last time I rented a car was at Manchester, NH airport and they do not have office there anymore.",1,Service: Attitude,Visit Nearest Center,Neutral,None
+1044,Male,F,0,39.56,Active,No,Excellent response dealing with child seat.,1,Service: Attitude,,Positive,None
+1045,Male,F,1,18.4,Inactive,Yes,Excellent response dealing with child seat.,1,Product: Pricing and Billing,,Positive,None
+1046,Female,M,3,55.34,Active,Yes,"I had a few recent rentals that have taken a very very long time, with no offer of apology.",1,Service: Accessibility,Contact Support,Negative,"Long wait times, No apology"
+1047,Female,M,2,57.81,Active,No,"Very friendly service from the staff, quick and easy process.",1,Product: Pricing and Billing,,Positive,None
+1048,Male,M,3,60.09,Inactive,No,"Vehicle was not clean upon delivery, disappointed.",0,Service: Accessibility,Free Upgrade,Negative,"Vehicle cleanliness, delivery"
+1049,Female,M,3,68.75,Inactive,Yes,Please lower the prices.,0,Service: Orders/Contracts,,Neutral,Pricing
+1050,Male,F,0,31.34,Active,No,The agent subsequently offered me a car type on an upgrade coupon and then told me it was no longer available.,0,Service: Orders/Contracts,Contact Support,Negative,"Misinformation, Unavailable upgrade"
+1051,Female,M,1,26.32,Inactive,No,"Vehicle was not clean upon delivery, disappointed.",1,Service: Attitude,Visit Nearest Center,Negative,"Vehicle cleanliness, delivery"
+1052,Male,M,3,45.58,Inactive,Yes,Excellent response dealing with child seat.,1,Product: Pricing and Billing,Standard Pickup,Positive,None
+1053,Male,M,3,23.29,Inactive,No,Excellent response dealing with child seat.,0,Service: Knowledge,Visit Nearest Center,Positive,None
+1054,Female,M,3,52.62,Active,No,"Long waiting time for pickup, very inconvenient.",0,Service: Accessibility,,Negative,"Long waiting time, inconvenient service"
+1055,Female,F,0,23.55,Inactive,No,"Slow, long lineup",1,Service: Accessibility,,Negative,Long wait times
+1056,Female,F,1,27.13,Inactive,Yes,"Slow, long lineup",0,Service: Orders/Contracts,,Negative,Long wait times
+1057,Male,M,2,48.68,Inactive,Yes,"Vehicle was not clean upon delivery, disappointed.",1,Service: Knowledge,Visit Nearest Center,Negative,"Vehicle cleanliness, delivery"
+1058,Male,M,1,22.17,Active,Yes,"Last time I rented a car was at Manchester, NH airport and they do not have office there anymore.",1,Service: Attitude,On-demand pickup location,Neutral,None
+1059,Female,F,1,43.09,Inactive,No,"Very friendly service from the staff, quick and easy process.",1,Product: Pricing and Billing,Free Upgrade,Positive,None
+1060,Female,M,2,36.88,Inactive,Yes,"Slow, long lineup",1,Service: Attitude,Contact Support,Negative,Long wait times
+1061,Male,F,3,42.8,Inactive,No,The agent subsequently offered me a car type on an upgrade coupon and then told me it was no longer available.,0,Product: Pricing and Billing,Visit Nearest Center,Negative,"Misinformation, Unavailable upgrade"
+1062,Female,M,3,25.42,Active,No,"Very friendly service from the staff, quick and easy process.",0,Service: Attitude,Standard Pickup,Positive,None
+1063,Male,F,2,59.94,Inactive,No,Excellent response dealing with child seat.,0,Service: Accessibility,Visit Nearest Center,Positive,None
+1064,Female,F,3,18.08,Active,Yes,Please lower the prices.,1,Service: Attitude,Standard Pickup,Neutral,Pricing
+1065,Female,F,0,42.38,Active,Yes,The agent subsequently offered me a car type on an upgrade coupon and then told me it was no longer available.,0,Service: Accessibility,Visit Nearest Center,Negative,"Car availability, Upgrade coupon"
+1066,Female,M,0,66.0,Active,Yes,"Very friendly service from the staff, quick and easy process.",0,Product: Pricing and Billing,Contact Support,Positive,None
+1067,Female,M,2,43.12,Inactive,No,"All went quite smoothly... it was Enterprise, so they even picked me up to get the car.",0,Service: Accessibility,Contact Support,Positive,None
+1068,Male,M,0,54.47,Inactive,Yes,"Slow, long lineup",1,Service: Knowledge,On-demand pickup location,Negative,Long wait times
+1069,Male,F,2,26.13,Active,No,"Very friendly service from the staff, quick and easy process.",0,Service: Orders/Contracts,Contact Support,Positive,None
+1070,Female,M,2,22.25,Active,Yes,"Slow, long lineup",0,Service: Knowledge,On-demand pickup location,Negative,Long wait times
+1071,Female,F,2,62.91,Inactive,Yes,"Slow, long lineup",1,Service: Attitude,On-demand pickup location,Negative,Long wait times
+1072,Male,F,0,20.77,Active,No,"Slow, long lineup",1,Service: Orders/Contracts,Standard Pickup,Negative,Long wait times
+1073,Female,M,1,24.86,Inactive,Yes,"I had a few recent rentals that have taken a very very long time, with no offer of apology.",1,Service: Knowledge,Standard Pickup,Negative,"Long wait times, No apology offered"
+1074,Male,M,3,28.06,Inactive,No,"Very friendly service from the staff, quick and easy process.",0,Service: Orders/Contracts,On-demand pickup location,Positive,None
+1075,Male,M,1,65.99,Active,No,"Very friendly service from the staff, quick and easy process.",1,Service: Knowledge,,Positive,None
+1076,Female,F,1,67.13,Active,Yes,Please lower the prices.,1,Service: Knowledge,Visit Nearest Center,Neutral,Pricing
+1077,Male,F,1,60.63,Inactive,Yes,"Vehicle was not clean upon delivery, disappointed.",1,Service: Attitude,Free Upgrade,Negative,"Vehicle cleanliness, delivery"
+1078,Female,M,3,69.25,Active,No,"Very friendly service from the staff, quick and easy process.",0,Product: Pricing and Billing,Visit Nearest Center,Positive,None
+1079,Male,F,1,61.37,Inactive,No,"I had a few recent rentals that have taken a very very long time, with no offer of apology.",1,Service: Attitude,Contact Support,Negative,"Long wait times, No apology"
+1080,Male,F,2,45.81,Inactive,No,"Last time I rented a car was at Manchester, NH airport and they do not have office there anymore.",1,Product: Functioning,Visit Nearest Center,Neutral,None
+1081,Male,F,1,22.49,Inactive,No,Excellent response dealing with child seat.,0,Service: Knowledge,Visit Nearest Center,Positive,None
+1082,Male,F,1,69.59,Active,Yes,"Last time I rented a car was at Manchester, NH airport and they do not have office there anymore.",1,Product: Pricing and Billing,On-demand pickup location,Neutral,None
+1083,Female,F,0,69.42,Inactive,Yes,"Slow, long lineup",0,Service: Knowledge,Standard Pickup,Negative,Long wait times
+1084,Male,M,2,52.7,Active,Yes,"Long waiting time for pickup, very inconvenient.",0,Product: Functioning,Free Upgrade,Negative,"Long waiting time, inconvenient service"
+1085,Male,M,0,51.44,Inactive,No,Excellent response dealing with child seat.,1,Service: Accessibility,Contact Support,Positive,None
+1086,Female,M,1,47.56,Inactive,Yes,"Vehicle was not clean upon delivery, disappointed.",1,Service: Orders/Contracts,Contact Support,Negative,"Vehicle cleanliness, delivery"
+1087,Male,F,2,23.59,Active,No,"Slow, long lineup",0,Product: Pricing and Billing,Contact Support,Negative,Long wait times
+1088,Male,F,3,26.71,Inactive,No,The agent subsequently offered me a car type on an upgrade coupon and then told me it was no longer available.,0,Service: Knowledge,Contact Support,Negative,"Misinformation, Unavailable upgrade"
+1089,Female,F,0,35.21,Active,No,Please lower the prices.,0,Service: Accessibility,On-demand pickup location,Neutral,Pricing
+1090,Male,F,0,45.93,Inactive,Yes,"Slow, long lineup",0,Service: Accessibility,,Negative,Long wait times
+1091,Male,F,2,53.07,Inactive,No,"Long waiting time for pickup, very inconvenient.",0,Service: Orders/Contracts,On-demand pickup location,Negative,"Long waiting time, inconvenient service"
+1092,Male,M,3,46.47,Inactive,Yes,"I had a few recent rentals that have taken a very very long time, with no offer of apology.",1,Service: Accessibility,,Negative,"Long wait times, No apology"
+1093,Male,F,0,69.85,Active,No,"Vehicle was not clean upon delivery, disappointed.",0,Product: Pricing and Billing,Free Upgrade,Negative,"Vehicle cleanliness, delivery"
+1094,Male,F,3,18.93,Inactive,Yes,The agent subsequently offered me a car type on an upgrade coupon and then told me it was no longer available.,0,Product: Functioning,Visit Nearest Center,Negative,"Misinformation, Unavailability"
+1095,Male,M,2,41.43,Active,No,"I had a few recent rentals that have taken a very very long time, with no offer of apology.",0,Service: Knowledge,Visit Nearest Center,Negative,"Long wait times, No apology"
+1096,Male,M,0,45.46,Active,No,"I had a few recent rentals that have taken a very very long time, with no offer of apology.",1,Product: Pricing and Billing,On-demand pickup location,Negative,"Long wait times, Lack of apology"
+1097,Male,M,2,35.42,Active,Yes,"Slow, long lineup",1,Service: Knowledge,Standard Pickup,Negative,Long wait times
+1098,Male,M,2,55.45,Active,No,"Last time I rented a car was at Manchester, NH airport and they do not have office there anymore.",1,Service: Attitude,Free Upgrade,Neutral,None
+1099,Female,F,1,38.65,Inactive,Yes,"Long waiting time for pickup, very inconvenient.",0,Service: Accessibility,Contact Support,Negative,"Long waiting time, inconvenience"
